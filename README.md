@@ -56,8 +56,8 @@ The app takes a few order details and returns an estimated delivery time instant
 │           [ Predict delivery time ]     │
 │                                         │
 │   ┌───────────────────────────────┐     │
-│   │   ESTIMATED DELIVERY TIME     │    │
-│   │            42 min             │    │
+│   │   ESTIMATED DELIVERY TIME     │     │
+│   │            42 min             │     │
 │   └───────────────────────────────┘     │
 └─────────────────────────────────────────┘
 ```
