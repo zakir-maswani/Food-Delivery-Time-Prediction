@@ -44,7 +44,7 @@ The app takes a few order details and returns an estimated delivery time instant
 
 ```
 ┌─────────────────────────────────────────┐
-│  🛵  Food Delivery Time Predictor        │
+│  🛵  Food Delivery Time Predictor       │
 ├─────────────────────────────────────────┤
 │  Distance (km)        [=======•----] 8.5│
 │  Preparation time     [=====•------] 18 │
@@ -52,12 +52,12 @@ The app takes a few order details and returns an estimated delivery time instant
 │  Weather              [ Rainy      ▾]   │
 │  Traffic level        [ Medium     ▾]   │
 │  Vehicle type         [ Bike       ▾]   │
-│                                          │
+│                                         │
 │           [ Predict delivery time ]     │
-│                                          │
+│                                         │
 │   ┌───────────────────────────────┐     │
-│   │   ESTIMATED DELIVERY TIME      │     │
-│   │            42 min              │     │
+│   │   ESTIMATED DELIVERY TIME     │    │
+│   │            42 min             │    │
 │   └───────────────────────────────┘     │
 └─────────────────────────────────────────┘
 ```
