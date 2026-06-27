@@ -1,0 +1,42 @@
+{
+  "categorical_options": {
+    "Weather": [
+      "Clear",
+      "Foggy",
+      "Rainy",
+      "Snowy",
+      "Windy"
+    ],
+    "Traffic_Level": [
+      "High",
+      "Low",
+      "Medium"
+    ],
+    "Time_of_Day": [
+      "Afternoon",
+      "Evening",
+      "Morning",
+      "Night"
+    ],
+    "Vehicle_Type": [
+      "Bike",
+      "Car",
+      "Scooter"
+    ]
+  },
+  "numeric_ranges": {
+    "Distance_km": [
+      0.59,
+      19.99
+    ],
+    "Preparation_Time_min": [
+      5.0,
+      29.0
+    ],
+    "Courier_Experience_yrs": [
+      0.0,
+      9.0
+    ]
+  },
+  "experience_level_mode_fallback": "Mid-Level"
+}
