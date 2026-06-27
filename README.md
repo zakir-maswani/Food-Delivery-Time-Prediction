@@ -159,7 +159,7 @@ food-delivery-time-prediction/
 ### 1. Clone & install
 
 ```bash
-git clone <your-repo-url>
+git https://github.com/zakir-maswani/Food-Delivery-Time-Prediction
 cd food-delivery-time-prediction
 pip install -r requirements.txt
 ```
